@@ -93,12 +93,12 @@ except:
 ```
 ## OUTPUT
 ### A - LINEAR TREND ESTIMATION
-![ts1]()
+![ts1](https://github.com/Kishore00007/TSA_EXP2/blob/main/t1.png)
 
-![ts2]()
+![ts2](https://github.com/Kishore00007/TSA_EXP2/blob/main/t2.png)
 
 ### B- POLYNOMIAL TREND ESTIMATION
-![ts3]()
+![ts3](https://github.com/Kishore00007/TSA_EXP2/blob/main/t3.png)
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
